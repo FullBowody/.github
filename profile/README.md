@@ -6,6 +6,6 @@ Track your body with two or more basic cameras
 - [FullBowody Application](https://github.com/FullBowody/Application)
 
 ## Useful links
-- [Website](https://furwaz.com/fullbowody)
-- [Documentation](https://furwaz.com/fullbowody/docs)
-- [Addons](https://furwaz.com/fullbowody/addons)
+- [Website](https://FullBowody.projects.furwaz.fr)
+- [Documentation](https://FullBowody.projects.furwaz.fr/docs)
+- [Addons](https://FullBowody.projects.furwaz.fr/addons)
