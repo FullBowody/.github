@@ -1,5 +1,5 @@
 # FullBowody
-Track your body in real-time with simple cameras!
+The quickest, simplest and cheapest solution for full body tracking !
 
 ## Repositories
 - Take a look at the [FullBowody Application](https://github.com/FullBowody/Application) to see how is the desktop app made.
